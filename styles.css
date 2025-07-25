@@ -37,6 +37,11 @@ header {
     color: #FFFFFF;
 }
 
+main {
+    margin: 121px 0 0 102px;
+
+}
+
 .logo.image { 
     margin: 163px 0 0 123px;
     display: inline-block;
@@ -77,54 +82,59 @@ p {
 }
 
 @media screen and (max-width: 900px) {
-    header {
-        display: none;
-    }
+  header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 20px;
+  }
 
-    .button-sing-up {
-        width: 100px;
-        height: 40px;
-        font-size: 14px;
-    }
+  .Link-menu {
+    display: none;
+  }
 
-    div{
-        margin-left: 0;
-        width: 100%;
-    }
+  .button-sing-up {
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    font-size: 14px;
+  }
 
-    h1 {
-        position: absolute;
-        font-size: 30px;
-        line-height: 30px;
-        width: auto;
-        text-align: center;
-        margin: -740px 57px;
-    }
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 0 20px;
+    text-align: center;
+  }
 
-    p {
-        position: absolute;
-        font-size: 18px;
-        line-height: 33px;
-        letter-spacing: 0.5px;
-        width: auto;
-        text-align: center;
-        margin: -640px 43px;
-    }
+  .logo.image {
+    width: auto;
+    height: auto;
+    margin: 40px 0 20px 0;
+    display: block;
+  }
 
-    .button-learn-more {
-        position: absolute;
-        font-size: 18px;
-        line-height: 100%;
-        letter-spacing: 0.5px;
-        width: auto;
-        text-align: center;
-        margin: -400px 0 59px 139px;
+  h1 {
+    font-size: 32px;
+    line-height: 38px;
+    margin: 20px 0;
+    width: 100%;
+  }
 
-    }
+  p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 30px;
+  }
 
-    .logo.image {
-        width: 312px;
-        height: 288px;
-        margin: 535px 0 22px 39px;
-    }
+  .button-learn-more {
+    font-size: 16px;
+    margin-bottom: 60px;
+  }
+
+  div {
+    width: 100%;
+    margin: 0;
+  }
 }
