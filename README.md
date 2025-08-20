@@ -1,59 +1,65 @@
-[**🚀 Acesse o projeto online clicando aqui!**](https://alesantanan.github.io/Desafio-responsivo--Congratulation-You-get-40/)  
+[**Estamos online, clique aqui!**](https://alesantanan.github.io/Congratulation-You-get-40/) 🎉  
 <br>
 
 <p align="center">
-  <a href="#house-sobre">🏠 Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-tecnologias">💻 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#house-sobre-o-projeto">🏠 Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-tecnologias-utilizadas">💻 Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer-funcionalidades">🛠️ Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#bar_chart-vantagens">📈 Vantagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-proximas-etapas">🚀 Próximas etapas</a>
+  <a href="#bar_chart-benefícios">📈 Benefícios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-melhorias-futuras">🚀 Melhorias futuras</a>
 </p>
 
 <br>
 
-# 🧪 Desafio 1 - CSS: Wide Coverage Location
+# 🎊 Congratulation - You get 40
 
-Este desafio consiste em desenvolver uma landing page com layout atrativo e responsivo, utilizando **HTML5 e CSS3 puro**, focando no posicionamento de elementos, responsividade e uso de boas práticas de estilização.
+### Projeto desenvolvido durante o curso [DevClub](https://www.devclub.com.br/) 🚀  
+<br>
 
----
+## 🏠 Sobre o projeto
 
-## 🏠 Sobre
+O **Congratulation - You get 40** é uma página comemorativa, criada para treinar conceitos de **HTML e CSS** aplicados em layout responsivo.  
+O objetivo foi desenvolver uma interface festiva e agradável, com design simples e visual moderno.  
+<br>
 
-O projeto simula a apresentação de um plano de cobertura para celulares, com foco em destacar visualmente os benefícios e diferenciais da oferta.  
-Trabalha conceitos fundamentais de **CSS como alinhamento, espaçamento, fontes personalizadas e responsividade**, sendo um excelente exercício para fixar o uso de seletores, flexbox e media queries.
-
----
-
-## 💻 Tecnologias
+## 💻 Tecnologias utilizadas
 
 - HTML5  
 - CSS3  
-- Google Fonts  
-- Design Responsivo (sem uso de frameworks)  
+- Layout responsivo (sem uso de frameworks ou JavaScript)  
+<br>
 
----
+## 💡 Demonstrações
+
+### 💻 Versão Web  
+<img src="https://github.com/alesantanan/Congratulation-You-get-40/blob/master/assets/projeto%20web.png"/>
+
+### 📲 Mobile  
+<img src="https://github.com/alesantanan/Congratulation-You-get-40/blob/master/assets/projeto%20mobile.png"/>
+
+### 📱 Responsivo  
+<img src="https://github.com/alesantanan/Congratulation-You-get-40/blob/master/assets/projeto%20responsivo.png"/>
+
+<br>
 
 ## 🛠️ Funcionalidades
 
-- Estruturação semântica em HTML5  
-- Estilização moderna com CSS3  
-- Layout adaptável para desktop e mobile  
-- Utilização de fontes externas e boas práticas visuais  
+- Layout limpo, moderno e intuitivo  
+- Responsividade total para dispositivos móveis  
+- Design comemorativo e estilizado  
+<br>
 
----
+## 📈 Benefícios
 
-## 📈 Vantagens
+- Interface acessível e visual atrativa  
+- Código limpo e bem estruturado em HTML + CSS  
+- Ideal para estudo de responsividade  
+<br>
 
-- Exercício prático para iniciantes e intermediários em Front-End  
-- Ideal para reforçar conceitos de **CSS responsivo e organização de layout**  
-- Código simples, limpo e fácil de adaptar ou escalar  
-- Base sólida para futuros projetos com integração JavaScript ou frameworks  
+## 🚀 Melhorias futuras
 
----
+- Adicionar animações com CSS  
+- Implementar interatividade com JavaScript  
+- Efeitos visuais dinâmicos (confetes, luzes, etc.)  
+- Versão com customização de mensagens 🎉  
 
-## 🚀 Próximas etapas
-
-- Adicionar animações e transições com CSS  
-- Implementar componentes interativos com JavaScript  
-- Testes de acessibilidade e usabilidade em dispositivos variados  
-- Refatorar o código com arquitetura CSS escalável (como BEM ou CSS Modules)
