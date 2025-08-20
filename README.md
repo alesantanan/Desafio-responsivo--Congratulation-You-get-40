@@ -1,4 +1,4 @@
-[**🚀 Acesse o projeto online clicando aqui!**](https://alesantanan.github.io/Projeto-Easy-Shopping-Cellphone/)  
+[**🚀 Acesse o projeto online clicando aqui!**](https://alesantanan.github.io/Desafio-responsivo--Congratulation-You-get-40/)  
 <br>
 
 <p align="center">
