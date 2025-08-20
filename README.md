@@ -32,13 +32,13 @@ O objetivo foi desenvolver uma interface festiva e agradável, com design simple
 ## 💡 Demonstrações
 
 ### 💻 Versão Web  
-<img src="https://github.com/alesantanan/Congratulation-You-get-40/blob/master/assets/projeto%20web.png"/>
+<img src=https://github.com/alesantanan/Desafio-responsivo--Congratulation-You-get-40/blob/main/assets/congratulation%20web.png/>
 
 ### 📲 Mobile  
-<img src="https://github.com/alesantanan/Congratulation-You-get-40/blob/master/assets/projeto%20mobile.png"/>
+<img src=https://github.com/alesantanan/Desafio-responsivo--Congratulation-You-get-40/blob/main/assets/congratulation%20mobile.png/>
 
 ### 📱 Responsivo  
-<img src="https://github.com/alesantanan/Congratulation-You-get-40/blob/master/assets/projeto%20responsivo.png"/>
+<img src=https://github.com/alesantanan/Desafio-responsivo--Congratulation-You-get-40/blob/main/assets/congratulation%20responsivo.png/>
 
 <br>
 
