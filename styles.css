@@ -87,29 +87,29 @@ p {
 
   .button-sing-up {
     display: relative;
-    margin: 0 0 0 250px;
+    margin: 0 0 0 290px;
     font-size: 12px;
     line-height: 100%;
-    letter-spacing: 1px;
-    width: 61px;
-    height: 18px;
-    opacity: 1px;
-  
+    width: 91px;
+    height: 31px;
+    border-radius: 6px;
+    border-width: 1px;
+ 
 }
 
   img {
     width: 312px;
     height: 288px;
     position: absolute;
-    top: 61%;
+    top: 64%;
     left: 10%;
   }
 
   div {
     text-align: center;
     position: relative;
-    margin-top: -10%;
-    left: -82%;
+    margin-top: -24%;
+    left: -87%;
   }
 
   h1 {
@@ -137,7 +137,13 @@ p {
   }
 
   .button-learn-more {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 1px;
     height: 27px;
     opacity: 1;
+    margin-left: -3%;
+    margin-top: -3%;
   }
 }
